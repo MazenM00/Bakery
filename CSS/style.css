@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.BD1{
+background-image: url(../images/asset2.jpeg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+.SD1{
+display: flex;
+justify-content: space-between;
+
+}
+.A1{
+    text-decoration: none;
+    color: rgb(124, 108, 108);
+    padding: 1.5rem;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+.A1:hover{
+color: white;
+
+}
+.IMG1{
+    width: 160px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.SD2{
+    text-align: center;
+
+}
+h2{
+color: white;
+display: block;
+font-size: 2rem;
+margin-block-start: 0.83em;
+margin-block-end: 0.83em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+font-weight: bold;
+font-family: cursive;
+}
+.P1{
+    color: rgb(240, 205, 205);
+    font-size: 1.3rem;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.BTN1{
+color: white;
+background-color: #8e7754;
+border: none;
+border-radius: 10px; 
+font-size: 20px;
+padding: 10px;
+margin-right: 20px;
+}
+.BTN1:hover{
+    background-color: white;
+    color: black;
+    
+}
+.BTN2{
+
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 10px; 
+    font-size: 20px;
+    padding: 10px;
+    
+}
+.BTN2:hover{
+    background-color: white;
+    color: black;
+}
+.BD2{
+display: flex;
+justify-content: space-around;
+margin-top: 3rem!important;
+
+}
+.SD3{
+text-align: center;
+
+}
+.H0{
+    color: #303030;
+    font-size: 2rem;
+    margin-top: 150px;
+}
+.P2{
+    color: #686868;
+    line-height: 1.86em;
+    font-family: Alegreya Sans,sans-serif,monospace;
+}
+.IMG2{
+    width: 95%;
+    height: 95%;
+}
+.BD3{
+display: flex;
+justify-content: space-between;
+background-color: #f8f9fa!important;
+}
+.SD4{
+    text-align: center;
+}
+.H1{
+    color: #303030;
+    font-size: 2rem;
+    margin-top: 120px;
+}
+.P3{
+    color: #686868;
+    line-height: 1.86em;
+    font-family: Alegreya Sans,sans-serif,monospace;
+}
+.IMG3{
+    width: 95%;
+    height: 50vh;
+
+}
+.BD4{
+    display: flex;
+    justify-content: space-around;
+}
+
+.IMG4{
+width: 140%;
+}
